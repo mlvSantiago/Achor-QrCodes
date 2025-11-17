@@ -97,7 +97,7 @@ Para cada linha da planilha, gera-se um arquivo PNG contendo:
 
 - Resolução ajustada automaticamente
 
-![QR Code gerado](assets/Apto 101 A.png)
+![QR Code gerado](assets/Apto_101_A.png)
 
 
 
